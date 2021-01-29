@@ -1,0 +1,7 @@
+.text-gray-700 body-font{
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0; 
+    width: 100%;
+}
